@@ -4,7 +4,7 @@ Baobab Project Utilities
 Various tools related to the resource assesment of baobabs in Zimbabwe.
 
 To install dependancies in Ubuntu:
-  sudo apt-get install qgis python-pygame python-sklearn
+  sudo apt-get install qgis python-pygame python-sklearn python-imaging
   
 Tools:
 
