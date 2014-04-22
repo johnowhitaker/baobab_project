@@ -44,7 +44,7 @@ for i in range((img_number-1), (len(coords))):
 						'scale': scale,
 						'key': "AIzaSyDJZrNZ2vQ_L3_A6TqbJUNaZwj0cKxlsLQ"})
 	url = 'http://maps.google.com/maps/api/staticmap?' + urlparams
-	im_name = "g14_"+str(img_number)+"(" + str(lat)+";"+str(lon)+")"
+	im_name = "img_"+str(img_number)+"(" + str(lat)+";"+str(lon)+")"
 	print("downloading " + im_name)
 	f=urllib.urlopen(url)
 	im=Image.open(StringIO.StringIO(f.read()))
