@@ -1,6 +1,8 @@
 Baobab Project Utilities
 ========================
 
+NOTE: Updated versions of these tools have been developed, with imporoved processes and a GUI. This code maintained for reference - please contact me for info until I get a tutorial online (coming soon!)
+
 Various tools related to the resource assesment of baobabs in Zimbabwe.
 
 To install dependancies in Ubuntu:
